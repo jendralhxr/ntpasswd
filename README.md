@@ -1,7 +1,10 @@
 
 The Offline Windows Password Editor
+ntpasswd is also called chntpw later on
 
 (c) 1997-2014 Petter Nordahl-Hagen
+http://www.chntpw.com
+
 
 This is free software, licensed under the following:
 
@@ -26,6 +29,7 @@ Where to get more info:
 -----------------------
 
 http://pogostick.net/~pnh/ntpasswd/
+http://www.chntpw.com/
 
 At that site there's a floppy and a bootable CD that use chntpw to
 access the NT/2k/XP/Vista/Win7/Win8 system it is booted on to edit password etc.
