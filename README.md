@@ -1,3 +1,5 @@
+*** this github repo is just a mirror/clone from the original ***
+*** credit goes to the original author (Petter Nordahl-Hagen) ***
 
 The Offline Windows Password Editor
 ntpasswd is also called chntpw later on
